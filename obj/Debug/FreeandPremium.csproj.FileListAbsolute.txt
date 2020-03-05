@@ -1,0 +1,13 @@
+E:\repos\Free and Premium\FreeandPremium\bin\Debug\FreeandPremium.exe.config
+E:\repos\Free and Premium\FreeandPremium\bin\Debug\FreeandPremium.exe
+E:\repos\Free and Premium\FreeandPremium\bin\Debug\FreeandPremium.pdb
+E:\repos\Free and Premium\FreeandPremium\bin\Debug\Guna.UI.dll
+E:\repos\Free and Premium\FreeandPremium\bin\Debug\Guna.UI.pdb
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.csprojAssemblyReference.cache
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.LoginForm.resources
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.MainForm.resources
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.Properties.Resources.resources
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.csproj.GenerateResource.cache
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.csproj.CopyComplete
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.exe
+E:\repos\Free and Premium\FreeandPremium\obj\Debug\FreeandPremium.pdb
